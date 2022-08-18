@@ -1,0 +1,1 @@
+A tensorflow implementation of  the [Deterministic Uncertainty Quantification](https://proceedings.mlr.press/v119/van-amersfoort20a.html) model for the two moons dataset.
